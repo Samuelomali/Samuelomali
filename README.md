@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samuelomali
-- 👀 I’m interested in Data Analytics/Data Science 
+- 👀 I’m interested in Software development and Data Sciences
 - 💞️ I’m looking to collaborate on Projects to uncover findings 
 - 📫 How to reach me omalisamuel27@gmail.com
 - 😄 Pronouns: He/Him
